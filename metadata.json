@@ -1,0 +1,7 @@
+{
+  "name": "Cyberpunk Holographic HUD",
+  "description": "A futuristic AR interface featuring a holographic solar system controlled by hand gestures.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
